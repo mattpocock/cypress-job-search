@@ -1,0 +1,32 @@
+{
+  "counts": [
+    {
+      "site": "CW Jobs",
+      "position": "PHP Developer",
+      "count": "4",
+      "date": "2018-05-31",
+      "id": 1
+    },
+    {
+      "site": "CW Jobs",
+      "position": "Javascript Developer",
+      "count": "2",
+      "date": "2018-05-31",
+      "id": 2
+    },
+    {
+      "site": "CW Jobs",
+      "position": "Frontend Developer",
+      "count": "8",
+      "date": "2018-05-31",
+      "id": 3
+    },
+    {
+      "site": "CW Jobs",
+      "position": "Web Developer",
+      "count": "8",
+      "date": "2018-05-31",
+      "id": 4
+    }
+  ]
+}

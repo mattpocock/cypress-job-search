@@ -1,0 +1,12 @@
+{
+    "env": {
+        "desiredPositions": [
+            "PHP Developer",
+            "Javascript Developer",
+            "Frontend Developer",
+            "Web Developer"
+        ],
+        "location": "London"
+    },
+    "baseUrl": "http://localhost:3000"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "job_search",
+  "version": "1.0.0",
+  "description": "A job search automator using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.13.0",
+    "moment": "^2.22.1"
+  }
+}
