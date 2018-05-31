@@ -1,6 +1,9 @@
 $ npm i
 $ npm run serve
 
+In a separate window,
+    $ npm run start
+
 Download Cypress, and run cw_jobs.spec.js
 
 Go to db.json and watch the data flow in.
