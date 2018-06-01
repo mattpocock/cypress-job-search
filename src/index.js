@@ -48,7 +48,6 @@ class App extends React.Component {
                         <tr
                             key={job.id}
                             style={job.worthApplyingFor ? { backgroundColor: 'lightgreen' } : {}}
-                            
                         >
                             <td>{job.date}</td>
                             <td>
