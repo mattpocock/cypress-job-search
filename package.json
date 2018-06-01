@@ -9,7 +9,8 @@
     "watch": "webpack --mode development --watch",
     "build": "webpack --mode production",
     "start": "webpack-dev-server",
-    "serve": "json-server --watch db.json"
+    "serve": "json-server --watch db.json",
+    "test": "jest --watch"
   },
   "dependencies": {
     "json-server": "^0.13.0",
@@ -20,15 +21,21 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
+    "babel-jest": "^22.4.3",
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "chai": "^4.1.2",
     "css-loader": "^0.28.11",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^22.4.3",
     "node-sass": "^4.9.0",
     "regenerator-runtime": "^0.11.1",
     "sass-loader": "^7.0.1",
@@ -36,5 +43,14 @@
     "webpack": "^4.7.0",
     "webpack-cli": "^2.1.2",
     "webpack-dev-server": "^3.1.4"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "./setUpTests.js",
+    "moduleNameMapper": {
+      "\\.(css|less|scss|sass)$": "identity-obj-proxy"
+    },
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
   }
 }

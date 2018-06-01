@@ -1,5 +1,8 @@
+/* global document, fetch */
 import React from 'react';
 import { render } from 'react-dom';
+import styles from './css/index.scss';
+import sortAndFilterJobs from './helperFunctions/sortAndFilterJobs';
 
 class App extends React.Component {
     constructor(props) {
@@ -18,7 +21,12 @@ class App extends React.Component {
         fetch('http://localhost:3000/jobs', {
             method: 'GET',
         }).then(response => response.json())
-        .then(json => this.setState({ jobs: json }));
+            .then(json => this.setState({
+                /**
+                 * Filters out hidden jobs
+                 */
+                jobs: sortAndFilterJobs(json),
+            }));
     }
     handleBoxChecked(field, value, id, job) {
         fetch(`http://localhost:3000/jobs/${id}`, {
@@ -30,14 +38,18 @@ class App extends React.Component {
                 ...job,
                 [field]: value,
             }),
-        }).then(response => this.updateJobs());
+        }).then(() => this.updateJobs());
     }
     render() {
         return (
-            <table>
+            <table style={styles} className="Table">
                 <tbody>
                     {this.state.jobs.map(job => (
-                        <tr key={job.id}>
+                        <tr
+                            key={job.id}
+                            style={job.worthApplyingFor ? { backgroundColor: 'lightgreen' } : {}}
+                            
+                        >
                             <td>{job.date}</td>
                             <td>
                                 <a
@@ -52,6 +64,20 @@ class App extends React.Component {
                                 >
                                     {job.title}
                                 </a>
+                            </td>
+                            <td>
+                                <button
+                                    onClick={
+                                        () => this.handleBoxChecked(
+                                            'hidden',
+                                            true,
+                                            job.id,
+                                            job,
+                                        )
+                                    }
+                                >
+                                    Hide
+                                </button>
                             </td>
                             <td>
                                 <label>
@@ -93,7 +119,7 @@ class App extends React.Component {
             </table>
         );
     }
-};
+}
 
 render(
     <App />,

@@ -1,6 +1,8 @@
+/*eslint-disable*/
 import moment from 'moment';
 import get from '../../api-methods/get';
 import post from '../../api-methods/post';
+import cleanHref from '../functions/cleanHref';
 
 const searchForAJob = (title) => {
     cy.visit('https://www.cwjobs.co.uk/');
@@ -30,10 +32,11 @@ const scanPageForJobs = () => {
                     body: JSON.stringify({
                         site: 'CW Jobs',
                         title: result.innerText,
-                        href: result.href,
+                        href: cleanHref(result.href),
                         date: moment().format('YYYY-MM-DD'),
                         checkedItOut: false,
                         worthApplyingFor: false,
+                        hidden: false,
                     }),
                 })
             })
