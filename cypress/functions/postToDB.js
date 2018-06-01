@@ -3,7 +3,7 @@ import moment from 'moment';
 import cleanHref from './cleanHref';
 
 export default (site, title, href) => {
-    fetch(`http://localhost:3000/jobs?href=${href}`, {
+    fetch(`http://localhost:3000/jobs?href=${cleanHref(href)}`, {
         method: 'GET',
     }).then(response => response.json())
         .then((json) => {

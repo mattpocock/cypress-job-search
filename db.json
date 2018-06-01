@@ -7,7 +7,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": true,
-      "id": 1
+      "id": 1,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -16,7 +17,9 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 2
+      "id": 2,
+      "hide": true,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -25,7 +28,9 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 3
+      "id": 3,
+      "hide": true,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -39,11 +44,12 @@
     {
       "site": "CW Jobs",
       "title": "Web Developer (SEO & WordPress) – Berkshire - £25-28k",
-      "href": "https://www.cwjobs.co.uk/job/web-developer-seo-wordpress-berkshire-25-28k/ryoko-group-job81629697?r=14-Results",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-seo-wordpress-berkshire-25-28k/ryoko-group-job81629697",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 5
+      "id": 5,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -66,61 +72,67 @@
     {
       "site": "CW Jobs",
       "title": "C# Developer, Software Developer, C#, ASP.Net, Remote Working",
-      "href": "https://www.cwjobs.co.uk/job/c-developer-software-developer-c-asp-net-remote-working/corriculo-job81637588?r=1-Results",
+      "href": "https://www.cwjobs.co.uk/job/c-developer-software-developer-c-asp-net-remote-working/corriculo-job81637588",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 8
+      "id": 8,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
       "title": "Java Developer / Engineer / Programmer ",
-      "href": "https://www.cwjobs.co.uk/job/java-developer-engineer-programmer/evolution-recruitment-solutions-job81641027?r=8-Results",
+      "href": "https://www.cwjobs.co.uk/job/java-developer-engineer-programmer/evolution-recruitment-solutions-job81641027",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 9
+      "id": 9,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
       "title": "Java Developer ",
-      "href": "https://www.cwjobs.co.uk/job/java-developer/torch-markets-job81558010?r=9-Results",
+      "href": "https://www.cwjobs.co.uk/job/java-developer/torch-markets-job81558010",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 10
+      "id": 10,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
       "title": "Senior Software PHP Developer ",
-      "href": "https://www.cwjobs.co.uk/job/senior-software-php-developer/world-first-job81372285?r=10-Results",
+      "href": "https://www.cwjobs.co.uk/job/senior-software-php-developer/world-first-job81372285",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 11
+      "id": 11,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
       "title": "Full Stack Developer ",
-      "href": "https://www.cwjobs.co.uk/job/full-stack-developer/searchability-job81642351?r=11-Results",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer/searchability-job81642351",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 12
+      "id": 12,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
       "title": "Software Developer Python SQL RESTful – Start-up",
-      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762?r=12-Results",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 13
+      "id": 13,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
       "title": "Full Stack PHP Developer ",
-      "href": "https://www.cwjobs.co.uk/job/full-stack-php-developer/searchability-job81642468?r=13-Results",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-php-developer/searchability-job81642468",
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": true,
@@ -133,7 +145,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 15
+      "id": 15,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -151,7 +164,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 17
+      "id": 17,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -160,7 +174,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 18
+      "id": 18,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -169,7 +184,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 19
+      "id": 19,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -178,7 +194,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 20
+      "id": 20,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -196,7 +213,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": true,
-      "id": 22
+      "id": 22,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -205,7 +223,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 23
+      "id": 23,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -214,7 +233,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 24
+      "id": 24,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -223,7 +243,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 25
+      "id": 25,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -232,7 +253,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 26
+      "id": 26,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -241,7 +263,8 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 27
+      "id": 27,
+      "hidden": true
     },
     {
       "site": "CW Jobs",
@@ -250,7 +273,835 @@
       "date": "2018-05-31",
       "checkedItOut": true,
       "worthApplyingFor": false,
-      "id": 28
+      "id": 28,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "PHP Developer",
+      "href": "https://www.cwjobs.co.uk/job/php-developer/premier-group-recruitment-job81686715",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": true,
+      "id": 29
+    },
+    {
+      "site": "CW Jobs",
+      "title": "SQL Server Developer, .NET Developer, ASP.NET, JavaScript, SQL, C#",
+      "href": "https://www.cwjobs.co.uk/job/sql-server-developer-net-developer-asp-net-javascript-sql-c/haybrook-it-resourcing-ltd-job81018143",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 30,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End/Angular Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-angular-developer/austin-fraser-job81676295",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 31,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": true,
+      "id": 32,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Application Support Analyst, Support Engineer, Software, Web, 2nd line",
+      "href": "https://www.cwjobs.co.uk/job/application-support-analyst-support-engineer-software-web-2nd-line/haybrook-it-resourcing-ltd-job81466399",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 33,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Wordpress Developer ",
+      "href": "https://www.cwjobs.co.uk/job/wordpress-developer/hays-information-technology-job81641661",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 34,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Software Developer Python SQL RESTful – Start-up",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 35,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "JavaScript Developer, React.js, Software Engineer, Agile, Vue.js, Node",
+      "href": "https://www.cwjobs.co.uk/job/javascript-developer-react-js-software-engineer-agile-vue-js-node/haybrook-it-resourcing-ltd-job81594997",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": true,
+      "id": 36
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Full Stack Developer - Python or Java ",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer-python-or-java/capita-resourcing-job81688569",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 37,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "JavaScript Developer, React.js, Software Engineer, Agile, Vue.js, Node",
+      "href": "https://www.cwjobs.co.uk/job/javascript-developer-react-js-software-engineer-agile-vue-js-node/haybrook-it-resourcing-ltd-job81267236",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 38,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Full Stack Developer ",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer/searchability-job81642351",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 39,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Senior Frontend Developer / JavaScript Developer, D3, Angular.JS",
+      "href": "https://www.cwjobs.co.uk/job/senior-frontend-developer-javascript-developer-d3-angular-js/corriculo-job81688151",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 40,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 41,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "C# Developer, Software Developer, C#, ASP.Net, Remote Working",
+      "href": "https://www.cwjobs.co.uk/job/c-developer-software-developer-c-asp-net-remote-working/corriculo-job81637588",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 42,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Junior PHP / WordPress Developer ",
+      "href": "https://www.cwjobs.co.uk/job/junior-php-wordpress-developer/searchability-job81666297",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 43,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Web Developer, PHP, MySQL, HTML, CSS, JavaScript, Laravel",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-php-mysql-html-css-javascript-laravel/haybrook-it-resourcing-ltd-job81588627",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": true,
+      "id": 44,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "PHP Developer",
+      "href": "https://www.cwjobs.co.uk/job/php-developer/premier-group-recruitment-job81686715",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 45,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "PHP Developer ",
+      "href": "https://www.cwjobs.co.uk/job/php-developer/world-first-job81372303",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 46,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Contract Senior Software Engineer - C#/.Net/SQL/AWS - RBI/RELX Group",
+      "href": "https://www.cwjobs.co.uk/job/contract-senior-software-engineer-c-net-sql-aws-rbi-relx-group/reed-business-information-ltd-job81521655",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 47,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Senior Software PHP Developer ",
+      "href": "https://www.cwjobs.co.uk/job/senior-software-php-developer/world-first-job81372285",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 48,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Application Support Analyst, Support Engineer, Software, Web, 2nd line",
+      "href": "https://www.cwjobs.co.uk/job/application-support-analyst-support-engineer-software-web-2nd-line/haybrook-it-resourcing-ltd-job81466399",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 49,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Software Developer Python SQL RESTful – Start-up",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 50,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Web Developer, Designer, Front-end, JavaScript, HTML, CSS",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-designer-front-end-javascript-html-css/haybrook-it-resourcing-ltd-job81641320",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 51,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End/Angular Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-angular-developer/austin-fraser-job81676295",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 52,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Junior Web Developer ",
+      "href": "https://www.cwjobs.co.uk/job/junior-web-developer/searchability-job81642708",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "id": 53,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 54,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Application Support Analyst, Support Engineer, Software, Web, 2nd line",
+      "href": "https://www.cwjobs.co.uk/job/application-support-analyst-support-engineer-software-web-2nd-line/haybrook-it-resourcing-ltd-job81466399",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 55,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "SQL Server Developer, .NET Developer, ASP.NET, JavaScript, SQL, C#",
+      "href": "https://www.cwjobs.co.uk/job/sql-server-developer-net-developer-asp-net-javascript-sql-c/haybrook-it-resourcing-ltd-job81018143",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 56,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "PHP Developer ",
+      "href": "https://www.cwjobs.co.uk/job/php-developer/world-first-job81372303",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 57,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 58,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Software Developer Python SQL RESTful – Start-up",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 59,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Junior Web Developer ",
+      "href": "https://www.cwjobs.co.uk/job/junior-web-developer/searchability-job81642708",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 60,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "C# Developer, Software Developer, C#, ASP.Net, Remote Working",
+      "href": "https://www.cwjobs.co.uk/job/c-developer-software-developer-c-asp-net-remote-working/corriculo-job81637588",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 61,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Junior PHP / WordPress Developer ",
+      "href": "https://www.cwjobs.co.uk/job/junior-php-wordpress-developer/searchability-job81666297",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 62,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Web Developer, PHP, MySQL, HTML, CSS, JavaScript, Laravel",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-php-mysql-html-css-javascript-laravel/haybrook-it-resourcing-ltd-job81588627",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 63,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End/Angular Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-angular-developer/austin-fraser-job81676295",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 64,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Web Developer, Designer, Front-end, JavaScript, HTML, CSS",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-designer-front-end-javascript-html-css/haybrook-it-resourcing-ltd-job81641320",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 65,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End/Angular Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-angular-developer/austin-fraser-job81676295",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 66,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Junior Web Developer ",
+      "href": "https://www.cwjobs.co.uk/job/junior-web-developer/searchability-job81642708",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 67,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 68,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Application Support Analyst, Support Engineer, Software, Web, 2nd line",
+      "href": "https://www.cwjobs.co.uk/job/application-support-analyst-support-engineer-software-web-2nd-line/haybrook-it-resourcing-ltd-job81466399",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 69,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Full Stack Developer ",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer/searchability-job81642351",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 70,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Wordpress Developer ",
+      "href": "https://www.cwjobs.co.uk/job/wordpress-developer/hays-information-technology-job81641661",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 71,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Software Developer Python SQL RESTful – Start-up",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "id": 72,
+      "hidden": true
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/austin-fraser-job81648024",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": true,
+      "id": 73
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Web Developer, Designer, Front-end, JavaScript, HTML, CSS",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-designer-front-end-javascript-html-css/haybrook-it-resourcing-ltd-job81641320",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 74
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End/Angular Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-angular-developer/austin-fraser-job81676295",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 75
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Junior Web Developer ",
+      "href": "https://www.cwjobs.co.uk/job/junior-web-developer/searchability-job81642708",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 76
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 77
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Full Stack Developer ",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer/searchability-job81642351",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 78
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Software Developer Python SQL RESTful – Start-up",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 79
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Senior Frontend Developer / JavaScript Developer, D3, Angular.JS",
+      "href": "https://www.cwjobs.co.uk/job/senior-frontend-developer-javascript-developer-d3-angular-js/corriculo-job81688151",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 80
+    },
+    {
+      "site": "CW Jobs",
+      "title": "JavaScript Developer, React.js, Software Engineer, Agile, Vue.js, Node",
+      "href": "https://www.cwjobs.co.uk/job/javascript-developer-react-js-software-engineer-agile-vue-js-node/haybrook-it-resourcing-ltd-job81594997",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 81
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Full Stack Developer - Python or Java ",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer-python-or-java/capita-resourcing-job81688569",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 82
+    },
+    {
+      "site": "CW Jobs",
+      "title": "JavaScript Developer, React.js, Software Engineer, Agile, Vue.js, Node",
+      "href": "https://www.cwjobs.co.uk/job/javascript-developer-react-js-software-engineer-agile-vue-js-node/haybrook-it-resourcing-ltd-job81267236",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 83
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 84
+    },
+    {
+      "site": "CW Jobs",
+      "title": "C# Developer, Software Developer, C#, ASP.Net, Remote Working",
+      "href": "https://www.cwjobs.co.uk/job/c-developer-software-developer-c-asp-net-remote-working/corriculo-job81637588",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 85
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Application Support Analyst, Support Engineer, Software, Web, 2nd line",
+      "href": "https://www.cwjobs.co.uk/job/application-support-analyst-support-engineer-software-web-2nd-line/haybrook-it-resourcing-ltd-job81466399",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 86
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Software Developer Python SQL RESTful – Start-up",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 87
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Application Support Analyst, Tools Systems Engineer, Software Dev",
+      "href": "https://www.cwjobs.co.uk/job/software-developer/haybrook-it-resourcing-ltd-job81619073",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 88
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Graduate Software Developer, ASP.NET, Microsoft, C#, MVC, SQL, Web API",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-asp-net/haybrook-it-resourcing-ltd-job81178484",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 89
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Full Stack Developer ",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer/searchability-job81642351",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 90
+    },
+    {
+      "site": "CW Jobs",
+      "title": "JavaScript Developer, React.js, Software Engineer, Agile, Vue.js, Node",
+      "href": "https://www.cwjobs.co.uk/job/javascript-developer-react-js-software-engineer-agile-vue-js-node/haybrook-it-resourcing-ltd-job81594997",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 91
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Web Developer, Designer, Front-end, JavaScript, HTML, CSS",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-designer-front-end-javascript-html-css/haybrook-it-resourcing-ltd-job81641320",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 92
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End/Angular Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-angular-developer/austin-fraser-job81676295",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 93
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Senior Frontend Developer / JavaScript Developer, D3, Angular.JS",
+      "href": "https://www.cwjobs.co.uk/job/senior-frontend-developer-javascript-developer-d3-angular-js/corriculo-job81688151",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 94
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Software Developer Python SQL RESTful – Start-up",
+      "href": "https://www.cwjobs.co.uk/job/software-developer-python-sql-restful-start-up/client-server-job81536762",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 95
+    },
+    {
+      "site": "CW Jobs",
+      "title": "SQL Server Developer, .NET Developer, ASP.NET, JavaScript, SQL, C#",
+      "href": "https://www.cwjobs.co.uk/job/sql-server-developer-net-developer-asp-net-javascript-sql-c/haybrook-it-resourcing-ltd-job81018143",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 96
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End Developer ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/austin-fraser-job81648024",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 97
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Front End Developer, Javascript frameworks, UI Design/Coding",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer-javascript-frameworks-ui-design-coding/go-partnership-job81637733",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 98
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Web Developer, PHP, MySQL, HTML, CSS, JavaScript, Laravel",
+      "href": "https://www.cwjobs.co.uk/job/web-developer-php-mysql-html-css-javascript-laravel/haybrook-it-resourcing-ltd-job81588627",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 99
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Full Stack Developer - Python or Java ",
+      "href": "https://www.cwjobs.co.uk/job/full-stack-developer-python-or-java/capita-resourcing-job81688569",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 100
+    },
+    {
+      "site": "CW Jobs",
+      "title": "C# Developer, Software Developer, C#, ASP.Net, Remote Working",
+      "href": "https://www.cwjobs.co.uk/job/c-developer-software-developer-c-asp-net-remote-working/corriculo-job81637588",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 101
+    },
+    {
+      "site": "CW Jobs",
+      "title": "Java Developer / Engineer / Programmer ",
+      "href": "https://www.cwjobs.co.uk/job/java-developer-engineer-programmer/evolution-recruitment-solutions-job81641027",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 102
+    },
+    {
+      "site": "CW Jobs",
+      "title": "PHP Developer",
+      "href": "https://www.cwjobs.co.uk/job/php-developer/premier-group-recruitment-job81686715",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 103
+    },
+    {
+      "site": "CW Jobs",
+      "title": "FRONT END DEVELOPER ",
+      "href": "https://www.cwjobs.co.uk/job/front-end-developer/searchability-job81641772",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 104
+    },
+    {
+      "site": "Glassdoor",
+      "title": "PHP Developer",
+      "href": "https://www.glassdoor.co.uk/partner/jobListing.htm",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 105
+    },
+    {
+      "site": "Glassdoor",
+      "title": "Software Developer",
+      "href": "https://www.glassdoor.co.uk/partner/jobListing.htm",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 106
+    },
+    {
+      "site": "Glassdoor",
+      "title": "PHP Developer",
+      "href": "https://www.glassdoor.co.uk/partner/jobListing.htm",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 107
+    },
+    {
+      "site": "Glassdoor",
+      "title": "PHP Developer",
+      "href": "https://www.glassdoor.co.uk/partner/jobListing.htm",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 108
+    },
+    {
+      "site": "Glassdoor",
+      "title": "PHP Developer",
+      "href": "https://www.glassdoor.co.uk/partner/jobListing.htm",
+      "date": "2018-06-01",
+      "checkedItOut": false,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 109
+    },
+    {
+      "site": "Glassdoor",
+      "title": "PHP Developer",
+      "href": "https://www.glassdoor.co.uk/partner/jobListing.htm",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 110
+    },
+    {
+      "site": "Glassdoor",
+      "title": "Senior PHP Developer",
+      "href": "https://www.glassdoor.co.uk/partner/jobListing.htm",
+      "date": "2018-06-01",
+      "checkedItOut": true,
+      "worthApplyingFor": false,
+      "hidden": true,
+      "id": 111
     }
   ]
 }
